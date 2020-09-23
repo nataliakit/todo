@@ -3,8 +3,8 @@ body {
     background: #C2C2C2;
 }
 
-header {
-    background: #FF9393;
+.header__todo {
+    background: #E0E0E0;
     border: 1px solid #000000;
 }
 
