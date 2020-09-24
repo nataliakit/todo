@@ -3,7 +3,7 @@ body {
     background: #C2C2C2;
 }
 
-.header__todo {
+.header__main {
     background: #E0E0E0;
     border: 1px solid #000000;
 }
@@ -14,7 +14,7 @@ body {
     align-items: center;
 }
 
-h1 {
+.header__todo {
     font-weight: normal;
     font-size: 36px;
     line-height: 42px;
