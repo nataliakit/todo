@@ -6,7 +6,7 @@ listElement.addEventListener('click', deleteItem);
 
 function addItem(e) {
   e.preventDefault();
-  console.log(1)
+
   let inputText = document.querySelector('.todo__text-input');
   let inputTextValue = inputText.value;
 
